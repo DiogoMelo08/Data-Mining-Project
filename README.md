@@ -1,3 +1,5 @@
+## WHAT IS THIS ABOUT?
+
 This project regards a customer segmentation provided for a fictional delivery company.
 
 Customers where grouped using 3 different perspectives (Value, Behavior and Preferences).
