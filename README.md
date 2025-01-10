@@ -8,10 +8,10 @@ We tried 2 different clustering approaches and chose Self Organizing Maps as the
 
 Each Notebook contains a important part of our project:
 
-EDA and Preprocess
-KMEANS & HC
-SOM & HC
-Report including Marketing Strategies and Sugestion for the Company.
+1. EDA and Preprocess.
+2. KMEANS & HC.
+3. SOM & HC.
+4. Report including Marketing Strategies and Sugestion for the Company.
 
 Our final decision after merging perspectives was the last notebook (SOM) as it provided a much better Silhoutte Score compared with the Kmeans.
 
